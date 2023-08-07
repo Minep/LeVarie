@@ -1,0 +1,33 @@
+{
+  "parent": "miscmod:callous_capitalist",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "miscmod:triggers.high_qol"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.miscmod.labour_revolution.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:iron_axe",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.miscmod.labour_revolution.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "miscmod:adv_enchantments",
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "count": {
+              "min": 1
+            },
+            "enchantments": [
+              {
+                "enchantment": "miscmod:friendship_is_magic",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.miscmod.magical_friendship.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:creeper_head"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.miscmod.magical_friendship.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

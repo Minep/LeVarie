@@ -1,0 +1,32 @@
+{
+  "parent": "miscmod:labour_revolution",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "miscmod:triggers.high_qol_bonus"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.miscmod.utopia.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:poppy"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.miscmod.utopia.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+    "experience": 1000
+  }
+}

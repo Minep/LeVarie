@@ -1,0 +1,84 @@
+{
+  "enchantment.miscmod.harmony": "和谐",
+  "enchantment.miscmod.harmony.desc": "修补需要等级封顶39级",
+  "enchantment.miscmod.harmony.description": "修补需要等级封顶39级",
+
+  "enchantment.miscmod.absorbing": "吸纳",
+  "enchantment.miscmod.absorbing.desc": "以该附魔为代价，转移目标物品的所有附魔",
+  "enchantment.miscmod.absorbing.description": "以该附魔为代价，转移目标物品的所有附魔",
+
+  "enchantment.miscmod.purified": "净化",
+  "enchantment.miscmod.purified.desc": "以该附魔为代价，移除所有的诅咒",
+  "enchantment.miscmod.purified.description": "以该附魔为代价，移除所有的诅咒",
+
+  "enchantment.miscmod.adv_protection": "高级保护",
+  "enchantment.miscmod.adv_protection.description": "提供更好的保护",
+  "enchantment.miscmod.adv_protection.desc": "提供更好的保护",
+
+  "enchantment.miscmod.adv_sharpness": "高级锋利",
+  "enchantment.miscmod.adv_sharpness.description": "提供更强的锋利等级",
+  "enchantment.miscmod.adv_sharpness.desc": "提供更强的锋利等级",
+
+  "enchantment.miscmod.double_jump": "二踢脚",
+  "enchantment.miscmod.double_jump.description": "在第一次跳跃后，允许在半空进行第二次跳跃",
+  "enchantment.miscmod.double_jump.desc": "在第一次跳跃后，允许在半空进行第二次跳跃",
+
+  "enchantment.miscmod.adv_digging": "高级效率",
+  "enchantment.miscmod.adv_digging.description": "提供更进一步的挖掘效率加成",
+  "enchantment.miscmod.adv_digging.desc": "提供更进一步的挖掘效率加成",
+
+  "enchantment.miscmod.adv_mending": "高级经验修补",
+  "enchantment.miscmod.adv_mending.description": "提供相当于两倍的原版经验修补速度",
+  "enchantment.miscmod.adv_mending.desc": "提供相当于两倍的原版经验修补速度",
+
+  "enchantment.miscmod.bedrock_breaker": "破界者",
+  "enchantment.miscmod.bedrock_breaker.description": "允许下界合金镐破坏基岩，但代价又是什么呢？",
+  "enchantment.miscmod.bedrock_breaker.desc": "允许下界合金镐破坏基岩，但代价又是什么呢？",
+
+  "enchantment.miscmod.friendship_is_magic": "友谊是魔法",
+  "enchantment.miscmod.friendship_is_magic.description": "任何敌对生物有概率视你为他们的盟友",
+  "enchantment.miscmod.friendship_is_magic.desc": "任何敌对生物有概率视你为他们的盟友",
+
+  "enchantment.miscmod.fast_attack": "速攻",
+  "enchantment.miscmod.fast_attack.description": "缩短暴击冷却时间",
+  "enchantment.miscmod.fast_attack.desc": "缩短暴击冷却时间",
+  "enchantment.miscmod.fast_attack.tooltip": "-%s%% 冷却用时",
+
+  "enchantment.miscmod.common_fate": "同生共死",
+  "enchantment.miscmod.common_fate.description": "将杀害你Reduce the repair cost when repairing on anvil.的凶手拉去给你垫背！",
+  "enchantment.miscmod.common_fate.desc": "将杀害你的凶手拉去给你垫背！",
+
+  "advancements.miscmod.root.title": "Le Varie",
+  "advancements.miscmod.root.description": "积跬步于千里，统碎乱于整体。",
+
+  "advancements.miscmod.adv_enchantments.title": "高级附魔",
+  "advancements.miscmod.adv_enchantments.description": "高级附魔，释放潜能。",
+
+  "advancements.miscmod.limit_breaker.title": "步入虚空",
+  "advancements.miscmod.limit_breaker.description": "使用带有“破界者”的镐子，成功破坏了基岩",
+
+  "advancements.miscmod.magical_friendship.title": "友谊的魔法",
+  "advancements.miscmod.magical_friendship.description": "获得化敌为友的能力",
+
+  "advancements.miscmod.callous_capitalist.title": "冷酷的资本家",
+  "advancements.miscmod.callous_capitalist.description": "剥削村民，将生活质量降到最低",
+
+  "advancements.miscmod.labour_revolution.title": "劳工革命",
+  "advancements.miscmod.labour_revolution.description": "将村民的生活质量提升到得体的水平",
+
+  "advancements.miscmod.utopia.title": "共产乌托邦",
+  "advancements.miscmod.utopia.description": "不愁吃喝穿！给予村民最高的生活质量",
+
+  "advancements.miscmod.bad_cure.title": "恶意治疗",
+  "advancements.miscmod.bad_cure.description": "为利益而重复治疗村民",
+
+  "enchantment.miscmod.no_creeper": "猫咪的恐吓",
+  "enchantment.miscmod.no_creeper.description": "苦力怕将被你吓跑！",
+  "enchantment.miscmod.no_creeper.desc": "苦力怕将被你吓跑！",
+
+  "death.attack.common_fate": "%1$s死了",
+  "death.attack.common_fate.cause": "%1$s被%2$s拉去偿命了",
+
+  "item.miscmod.extra_info.mainhand": "主手额外加成："
+
+}

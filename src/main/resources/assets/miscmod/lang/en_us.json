@@ -1,0 +1,84 @@
+{
+  "enchantment.miscmod.harmony": "Harmony",
+  "enchantment.miscmod.harmony.desc": "Repair cost will be capped at 39",
+  "enchantment.miscmod.harmony.description": "Repair cost will be capped at 39",
+
+  "enchantment.miscmod.absorbing": "Assimilation",
+  "enchantment.miscmod.absorbing.desc": "Absorb all enchantments of other item to itself at cost of this enchantment.",
+  "enchantment.miscmod.absorbing.description": "Absorb all enchantments of other item to itself at cost of this enchantment.",
+
+  "enchantment.miscmod.purified": "Purification",
+  "enchantment.miscmod.purified.desc": "Remove all curses at cost of this enchantment.",
+  "enchantment.miscmod.purified.description": "Remove all curses at cost of this enchantment.",
+
+  "enchantment.miscmod.adv_protection": "Advanced Protection",
+  "enchantment.miscmod.adv_protection.description": "Advanced protection, provide better protection than regular one",
+  "enchantment.miscmod.adv_protection.desc": "Advanced protection, provide better protection than regular one",
+
+  "enchantment.miscmod.adv_sharpness": "Advanced Sharpness",
+  "enchantment.miscmod.adv_sharpness.description": "Advanced sharpness, deal more damage than regular one",
+  "enchantment.miscmod.adv_sharpness.desc": "Advanced sharpness, deal more damage than regular one",
+
+  "enchantment.miscmod.double_jump": "Multi Jump",
+  "enchantment.miscmod.double_jump.description": "Allow you to jump in mid air",
+  "enchantment.miscmod.double_jump.desc": "Allow you to jump in mid air",
+
+  "enchantment.miscmod.adv_digging": "Advanced Efficiency",
+  "enchantment.miscmod.adv_digging.description": "Advanced efficiency, break block even faster.",
+  "enchantment.miscmod.adv_digging.desc": "Advanced efficiency, break block even faster.",
+
+  "enchantment.miscmod.adv_mending": "Advanced Mending",
+  "enchantment.miscmod.adv_mending.description": "Advanced mending, double the durability restored using XP.",
+  "enchantment.miscmod.adv_mending.desc": "Advanced mending, double the durability restored using XP.",
+
+  "enchantment.miscmod.bedrock_breaker": "Unlimiter",
+  "enchantment.miscmod.bedrock_breaker.description": "Allow netherite pickaxe to break the bedrock, but at what cost?",
+  "enchantment.miscmod.bedrock_breaker.desc": "Allow netherite pickaxe to break the bedrock, but at what cost?",
+
+  "enchantment.miscmod.friendship_is_magic": "Friendship is Magic",
+  "enchantment.miscmod.friendship_is_magic.description": "Give a chance that monster treats you an ally",
+  "enchantment.miscmod.friendship_is_magic.desc": "Give a chance that monster treats you an ally",
+
+  "enchantment.miscmod.fast_attack": "Fast Attacking",
+  "enchantment.miscmod.fast_attack.description": "Increase attacking speed of weapon",
+  "enchantment.miscmod.fast_attack.desc": "Increase attacking speed of weapon",
+  "enchantment.miscmod.fast_attack.tooltip": "-%s%% cool-down",
+
+  "enchantment.miscmod.common_fate": "Common Fate",
+  "enchantment.miscmod.common_fate.description": "The murderer will be died with you",
+  "enchantment.miscmod.common_fate.desc": "The murderer will be died with you",
+
+  "advancements.miscmod.root.title": "Le Varie",
+  "advancements.miscmod.root.description": "Done everything just a little bit",
+
+  "advancements.miscmod.adv_enchantments.title": "Advanced Enchantments",
+  "advancements.miscmod.adv_enchantments.description": "Unleash the potential with advanced enchantments!",
+
+  "advancements.miscmod.limit_breaker.title": "In to the void",
+  "advancements.miscmod.limit_breaker.description": "Break a bedrock using pickaxe enchanted with Unlimiter.",
+
+  "advancements.miscmod.magical_friendship.title": "Magic of Friendship",
+  "advancements.miscmod.magical_friendship.description": "Obtain the ability to convert enemies to friends.",
+
+  "advancements.miscmod.callous_capitalist.title": "Callous Capitalist",
+  "advancements.miscmod.callous_capitalist.description": "Maintain a poor life quality for a villager that trades",
+
+  "advancements.miscmod.labour_revolution.title": "Labour Revolution",
+  "advancements.miscmod.labour_revolution.description": "Improve a villager's quality of life to decent",
+
+  "advancements.miscmod.utopia.title": "Communism Utopia",
+  "advancements.miscmod.utopia.description": "Bring the life quality of a villager to max.",
+
+  "advancements.miscmod.bad_cure.title": "Cured, but Bad Intention",
+  "advancements.miscmod.bad_cure.description": "Cured a villager multiple times in trying to get accumulated discount",
+
+  "enchantment.miscmod.no_creeper": "Cat's Scaring",
+  "enchantment.miscmod.no_creeper.description": "Creeper will be scared by you and run off.",
+  "enchantment.miscmod.no_creeper.desc": "Creeper will be scared by you and run off.",
+
+  "death.attack.common_fate": "%1$s died",
+  "death.attack.common_fate.cause": "%1$s has shared the common fate with %2$s",
+
+  "item.miscmod.extra_info.mainhand": "Main Hand bonus: "
+
+}

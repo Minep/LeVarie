@@ -1,0 +1,33 @@
+{
+  "parent": "miscmod:adv_enchantments",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "miscmod:triggers.break_bedrock"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#BE39DB",
+      "translate": "advancements.miscmod.limit_breaker.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:bedrock"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.miscmod.limit_breaker.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  }
+}

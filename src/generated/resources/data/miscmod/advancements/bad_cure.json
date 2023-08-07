@@ -1,0 +1,32 @@
+{
+  "parent": "miscmod:callous_capitalist",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "miscmod:triggers.bad_cure"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.miscmod.bad_cure.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:golden_apple"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.miscmod.bad_cure.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

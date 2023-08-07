@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "com.lunaixsky.miscmod.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinAnvilMenu",
+    "MixinLivingEntity",
+    "MixinEnchantmentHelper",
+    "MixinExperienceOrb",
+    "MixinBlockBehaviour",
+    "MixinBlock",
+    "MixinCreeper",
+    "MixinPlayer",
+    "villager.MixinVillager",
+    "villager.MixinZombie",
+    "villager.MixinZombieVillager",
+    "villager.MixinWanderingTrader"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.miscmod.refmap.json",
+  "minVersion": "0.8"
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "miscmod:root",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "miscmod:triggers.low_qol"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.miscmod.callous_capitalist.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:gold_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.miscmod.callous_capitalist.title"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}
